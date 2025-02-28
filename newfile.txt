@@ -1,0 +1,2 @@
+This is my new file for git training
+My name is Zaria
